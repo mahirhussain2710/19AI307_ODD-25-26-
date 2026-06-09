@@ -37,8 +37,8 @@ To develop a Java program that demonstrates the use of different data types and 
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: BHAVYASHREE R
-RegisterNumber:  212223110006
+Developed by: MAHIR HUSSAIN S
+RegisterNumber:  212223040109
 */
 ```
 
